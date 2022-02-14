@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - ground
+  - Wall_Trigger
   layers:
   - Default
   - TransparentFX

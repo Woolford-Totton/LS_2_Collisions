@@ -52,7 +52,7 @@ public class Scr_input : MonoBehaviour
         if (other.gameObject.transform.tag == "ground")
         {
             grounded = true;
-
+            
             //Do what you want when it collided with the ground
         }
         else
